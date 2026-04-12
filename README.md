@@ -1,4 +1,19 @@
-## Hi there 👋
+## Edward Brok
+
+### Other names:
+- edikbrok
+- brok
+
+### Things i working with
+- FreePascal & Lazarus
+- FORTH (currently learning)
+- Apache, PHP, MariaDB (MySQL)
+- Godot Engine
+- Blender
+- Linux (Arch, Tiny Core)
+
+### My other creations idk
+- [gamebanana.com/mods/604153](VALORANT Tour De Force (+ sounds) over Machina - A Mod for Team Fortress 2)
 
 <!--
 **EdwardBrok/EdwardBrok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
