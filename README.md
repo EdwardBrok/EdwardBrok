@@ -13,7 +13,7 @@
 - Linux (Arch, Tiny Core)
 
 ### My creations idk
-- (gamebanana.com/mods/604153)[VALORANT Tour De Force (+ sounds) over Machina - A Mod for Team Fortress 2]
+- [VALORANT Tour De Force (+ sounds) over Machina - A Mod for Team Fortress 2](https://gamebanana.com/mods/604153)
 
 ### Things i goddamn hate for various reasons
 - Python
