@@ -12,8 +12,13 @@
 - Blender
 - Linux (Arch, Tiny Core)
 
-### My other creations idk
+### My creations idk
 - [gamebanana.com/mods/604153](VALORANT Tour De Force (+ sounds) over Machina - A Mod for Team Fortress 2)
+
+### Things i goddamn hate for various reasons
+- Python
+- any C lang, like cpp or csharp
+- proprietary software
 
 <!--
 **EdwardBrok/EdwardBrok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
