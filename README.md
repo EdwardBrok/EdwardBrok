@@ -1,5 +1,7 @@
 ## Edward Brok
 
+🇷🇺
+
 ### Other names:
 - edikbrok
 - brok
