@@ -16,6 +16,7 @@
 
 ### My creations idk
 - [VALORANT Tour De Force (+ sounds) over Machina - A Mod for Team Fortress 2](https://gamebanana.com/mods/604153)
+- [Yggdrasil Network GUI (YggGUI, Yggdrasil GUI)](https://github.com/edwardbrok/yggdrasil-network-gui)
 
 ### Things i goddamn hate for various reasons
 - Python
